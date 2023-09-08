@@ -4,7 +4,7 @@ echo "Hello World!"
 
 sudo pacman -Syu
 
-sudo pacman -S fish firefox feh wal picom flameshot neovim git nemo kitty pavucontrol
+sudo pacman -S fish firefox feh wal picom flameshot neovim git nemo kitty pavucontrol rofi
 
 sudo pacman -S ttf-jetbrains-mono ttf-font-awesome ttf-nerd-fonts-symbols
 
@@ -30,3 +30,4 @@ git clone
 
 mkdir ~/Documents/Coding
 mkdir ~/Documents/Notes
+mkdir ~/Wallpapers/
